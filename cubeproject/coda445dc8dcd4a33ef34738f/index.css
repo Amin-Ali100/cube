@@ -1,0 +1,51 @@
+body {
+    background-image: url("r.jpg");
+    background-size: cover;
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    height:100hv
+}
+
+.container {
+    margin: auto;
+    max-width: 70%;
+    border: 3px solid blue;
+    border-radius: 50px;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color:blueviolet;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    color:blueviolet;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color:white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: black;
+}
+
+#save-btn {
+    background: blue;
+}
+
+p{
+    color:green;
+}
+
